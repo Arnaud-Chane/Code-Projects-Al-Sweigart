@@ -1,2 +1,1 @@
-# CodeChallenge
-Let's try the #100DaysOfCode challenge with FreeCodeCamp
+Let's make 2020 the year I work in something I love : Let's code !
